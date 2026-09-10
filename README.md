@@ -1,6 +1,6 @@
 # Ahmad Fauzan
 
-**Founder & CEO @ [PT Chronaxis Labs Indonesia](https://github.com/chronaxis-labs)** — building AI agents, computer vision, and offline-first POS platforms from Malang, Indonesia.
+**Founder & CEO @ [PT Chronaxis Labs Indonesia](https://github.com/chronaxis-labs)** — building AI agents, computer vision, and offline-first POS platforms from Indonesia.
 
 > "Chronaxis" — *Chronos* (time) + *Axis* (technology): tools that move business forward.
 
